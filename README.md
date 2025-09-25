@@ -33,3 +33,13 @@ Built with HTML5 and CSS3 (Flexbox & Grid), it demonstrates a modern layout, reu
 
 ![Homepage Screenshot](assets/images/screen_shot.png)
 
+---
+
+## 🌍 Live Demo  
+👉 [View Live Demo](https://cloudhostingwebsite.netlify.app/)
+
+---
+
+Thanks for checking out this project
+
+
