@@ -7,25 +7,25 @@ Built with HTML5 and CSS3 (Flexbox & Grid), it demonstrates a modern layout, reu
 
 🚀 Features
 
-Responsive design (mobile, tablet, desktop)
+1. Responsive design (mobile, tablet, desktop)
 
-Modern layout using CSS Grid & Flexbox
+2. Modern layout using CSS Grid & Flexbox
 
-Documentation and features section
+3. Documentation and features section
 
-Reusable utility classes (buttons, cards, alerts, etc.)
+4. Reusable utility classes (buttons, cards, alerts, etc.)
 
-FontAwesome integration for icons
+5. FontAwesome integration for icons
 
 ---
 
 🛠️ Technologies Used
 
-HTML5
+1. HTML5
 
-CSS3 (Flexbox, Grid, Animations)
+2. CSS3 (Flexbox, Grid, Animations)
 
-FontAwesome Icons
+3. FontAwesome Icons
 
 ---
 
