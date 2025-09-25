@@ -27,3 +27,9 @@ CSS3 (Flexbox, Grid, Animations)
 
 FontAwesome Icons
 
+---
+
+## 📸 Screenshot  
+
+![Homepage Screenshot](assets/images/screen_shot.png)
+
