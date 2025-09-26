@@ -36,7 +36,7 @@ Built with HTML5 and CSS3 (Flexbox & Grid), it demonstrates a modern layout, reu
 ---
 
 ## 🌍 Live Demo  
-👉 [View Live Demo](https://cloudhostingwebsite.netlify.app/)
+👉 [View Live Demo](https://hosting-website-project.netlify.app/)
 
 ---
 
